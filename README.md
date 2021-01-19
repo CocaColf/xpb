@@ -13,15 +13,15 @@
 
 **命令行**
 
-![命令行运行截图](./run_screenshot/command.png)
+![命令行运行截图](https://github.com/CocaColf/xpb/blob/main/run_screenshot/command.PNG)
 
 **SDK截图**
 
-![SDK运行截图](./run_screenshot/SDK.png)
+![SDK运行截图](https://github.com/CocaColf/xpb/blob/main/run_screenshot/SDK.PNG)
 
 **失败重试**
 
-![失败重试运行截图](./run_screenshot/retry.png)
+![失败重试运行截图](https://github.com/CocaColf/xpb/blob/main/run_screenshot/retry.PNG)
 
 ## 使用
 
